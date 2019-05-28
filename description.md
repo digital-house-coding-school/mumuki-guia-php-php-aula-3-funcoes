@@ -1,0 +1,1 @@
+Seção destinada a exercicios de funções
