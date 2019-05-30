@@ -8,10 +8,10 @@ language: php
 id_format: "%05d"
 order:
 - 6
+- 7
 - 1
 - 2
 - 3
 - 4
 - 5
-- 7
 private: false
