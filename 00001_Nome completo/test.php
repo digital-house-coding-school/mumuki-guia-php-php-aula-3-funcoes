@@ -6,9 +6,9 @@ public function testResultado(): void {
   
   $this->assertTrue($fct == 2, "A função deveria receber 2 parametros");
   
-  $res = nombreCompleto("Jon", "Snow");
+  $res = fullName("Jon", "Snow");
   $this->assertTrue($res === "Jon Snow", "Usando o nome Jon Snow a função retorna: '$res'");
   
-  $res = nombreCompleto("Arya", "Stark");
+  $res = fullName("Arya", "Stark");
   $this->assertTrue($res === "Arya Stark", "Usando o nome Jon Snow a função retorna: '$res'");
 }
