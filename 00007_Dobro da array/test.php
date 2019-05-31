@@ -1,6 +1,6 @@
 public function testResultado(): void {
   $sol = '/*...content...*/';
-  $this->assertTrue(method_exists($this,"dobroDaArray"), "Não existe a função ''");
+  $this->assertTrue(method_exists($this,"dobroDaArray"), "Não existe a função 'dobroDaArray'");
   
   $resul = $this->dobroDaArray();
   
