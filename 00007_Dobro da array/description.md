@@ -1,4 +1,4 @@
-Muito bem!
+Muito bem!!
 
 Nós já definimos uma função `umADez` que retorna um array com os números de 1 a 10 :smile:
 
