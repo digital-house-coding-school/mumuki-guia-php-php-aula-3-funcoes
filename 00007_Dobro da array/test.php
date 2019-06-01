@@ -26,3 +26,4 @@ public function testResultado(): void {
   $trampa = $trampa == 0;
   $this->assertTrue($trampa, "Não deveria ter escrito o numeros manualmente!");
 }
+/*...content...*/
