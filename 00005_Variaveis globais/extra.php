@@ -1,1 +1,0 @@
-$contadorGlobal = 0;
